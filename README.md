@@ -11,4 +11,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-5851db?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr.lmartirosyan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867b2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levon-martirosyan-%F0%9F%90%8D-47b273161/)
 [![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://secure.skype.com/portal/overview)
-[![Tims](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://secure.skype.com/portal/overview)
