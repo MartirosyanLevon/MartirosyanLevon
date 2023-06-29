@@ -10,4 +10,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Levon92055531)
 [![Instagram](https://img.shields.io/badge/Instagram-5851db?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr.lmartirosyan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867b2?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/levon-martirosyan-🐍🪲-47b273161)
-[![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://secure.skype.com/portal/overview?intsrc=client-_-linux-_-8.86.0.407-_-.userInfo.myaccount&tcg=5d9cf2bc-e319-47fc-8d98-15d87b8fc3a9)
+[![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://secure.skype.com/portal/overview?intsrc=client-_-linux-_-8.86.0.407-_-.userInfo.myaccount&tcg=5d9cf2bc-e319-47fc-8d98-15d87b8fc3a9)]
